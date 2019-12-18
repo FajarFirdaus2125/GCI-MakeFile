@@ -1,8 +1,8 @@
 output: test.cpp
-    @echo "Compiling...."
-    @g++ test.cpp -o hasil
-    @echo "Result : "
+	@echo "Compiling......"
+	@g++ test.cpp -o hasil
+	@echo "Result : "
     @./hasil
 
 test.o:
-    g++ test.cpp -o hasil
+	g++ test.cpp -o hasil
