@@ -11,7 +11,7 @@
 
 # Demo
 
-[![](https://asciinema.org/a/Y6DXQbLnouDsdgSjo9F30jocO.png)](https://asciinema.org/a/Y6DXQbLnouDsdgSjo9F30jocO)]
+[![](https://asciinema.org/a/r6xZbmF4acxgPFryTyJIxXknR.png)](https://asciinema.org/a/r6xZbmF4acxgPFryTyJIxXknR)
 
 # How to run ?
 <pre>
